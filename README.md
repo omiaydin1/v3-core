@@ -64,3 +64,9 @@ The primary license for Uniswap V3 Core is the Business Source License 1.1 (`BUS
 
 - `contracts/libraries/FullMath.sol` is licensed under `MIT` (as indicated in its SPDX header), see [`contracts/libraries/LICENSE_MIT`](contracts/libraries/LICENSE_MIT)
 - All files in `contracts/test` remain unlicensed (as indicated in their SPDX headers).
+- ## Base Network Experiments
+
+Uniswap V3 core contracts can be explored on the Base network for learning
+and testing purposes. Base offers a cost-efficient environment for understanding
+core AMM mechanics and pool interactions.
+
